@@ -1,4 +1,8 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre] 👋
+
+![Portada de Perfil](banner.png)
+
+### DEV • DATA SCIENCE • IA
 
 <!--
 **Prof-NkoCussi/Prof-NkoCussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
