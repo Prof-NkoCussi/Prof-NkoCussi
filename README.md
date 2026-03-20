@@ -1,8 +1,10 @@
-# ¡Hola! Soy Nicolás A. Cussi 👋
+# Prof. Nicolás A. Cussi 💻
 
 ![Portada de Perfil](banner.png)
 
 ### DEV • DATA SCIENCE • IA
+
+## Técnico Superior en Ciencia de Datos e IA y Docente del área de Programación, con experiencia en todas las materias de la especialidad: Programación, Lógica, Desarrollo de Software, Bases de Datos, Redes y Robótica. Sólida trayectoria en educación técnica.
 
 <!--
 **Prof-NkoCussi/Prof-NkoCussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
