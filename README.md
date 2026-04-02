@@ -1,4 +1,4 @@
-# Prof. Nicolás A. Cussi 💻
+
 
 ![Portada de Perfil](banner2.png)
 
