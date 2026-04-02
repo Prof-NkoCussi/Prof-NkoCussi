@@ -1,6 +1,6 @@
 # Prof. Nicolás A. Cussi 💻
 
-![Portada de Perfil](banner.png)
+![Portada de Perfil](banner2.png)
 
 ### DEV • DATA SCIENCE • IA
 
