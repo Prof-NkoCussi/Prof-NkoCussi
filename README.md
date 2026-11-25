@@ -9,12 +9,14 @@
 ## Stack ## 
 **Desarrollo Backend:** `PHP` `(PDO, SQL embebido)`, `Python (Django, FastAPI, Flask)`, `Node.js (Express.js)`. <br>
 <br>
-**Bases de Datos:** `MySQ`L, `MariaDB`, `SQLite`. `Modelado relacional (DER, normalización)`, `SQL completo` `(DDL, DML, DQL, TCL)`, consultas complejas, subconsultas y procedimientos almacenados. Administración vía phpMyAdmin.
-Servidores y Sistemas: Instalación y configuración de servidores `Linux (Ubuntu/Debian)` con stack `LAMP (Apache, MySQL/MariaDB, PHP)`: acceso `SSH`, gestión de usuarios y permisos, respaldos y actualizaciones. Entornos locales con `XAMPP`. <br>
-<br>
 **Frontend:** `JavaScript (ES6+)`, `React`, `Angular`, `HTML5`, `CSS3`. <br>
 <br>
-**Control de Versiones:** `Git`, `GitHub`.
+**Control de Versiones:** `Git`, `GitHub`. <br>
+<br>
+**Bases de Datos:** `MySQ`L, `MariaDB`, `SQLite`. `Modelado relacional (DER, normalización)`, `SQL completo` `(DDL, DML, DQL, TCL)`, consultas complejas, subconsultas y procedimientos almacenados. Administración vía `phpMyAdmin`. <br>
+<br>
+**Servidores y Sistemas:** Instalación y configuración de servidores `Linux (Ubuntu/Debian)` con stack `LAMP (Apache, MySQL/MariaDB, PHP)`: acceso `SSH`, gestión de usuarios y permisos, respaldos y actualizaciones. Entornos locales con `XAMPP`. <br>
+
 <!--
 **Prof-NkoCussi/Prof-NkoCussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
